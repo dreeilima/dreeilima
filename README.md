@@ -1,5 +1,7 @@
-# Oi, me chamo Andrei Lima 👋
+<img src="https://raw.githubusercontent.com/L0um15/L0um15/cb872b0f3694efd47f5026166f0e14e3a19c9d4a/svg/webdevelopment.svg" width=50% height=50%>
 
+# Oi, me chamo Andrei Lima 👋
+ 
 ### Sobre mim
 
 💻 Eu sou um desenvolvedor Fullstack
