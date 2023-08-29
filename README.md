@@ -39,8 +39,8 @@
 ### GitHub Stats ⚡
 <div>
 <a href="https://github.com/dreeilima">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dreeilima&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dreeilima&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dreeilima&layout=compact&langs_count=7&theme=dark#gh-dark-mode-only"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dreeilima&show_icons=true&theme=dark#gh-dark-mode-only&include_all_commits=true&count_private=true"/>
 </div>
 
 ### Entre em contato comigo! 📭
