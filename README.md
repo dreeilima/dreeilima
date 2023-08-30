@@ -1,7 +1,9 @@
-<img src="https://raw.githubusercontent.com/L0um15/L0um15/cb872b0f3694efd47f5026166f0e14e3a19c9d4a/svg/webdevelopment.svg" width=50% height=50%>
+<div align="center">
+ <img src="https://raw.githubusercontent.com/L0um15/L0um15/cb872b0f3694efd47f5026166f0e14e3a19c9d4a/svg/webdevelopment.svg" width=50% height=50%>
+ </div>
 
-# Oi, me chamo Andrei Lima 👋
- 
+<h1 align="center"> Oi, me chamo Andrei Lima 👋 </h1>
+
 ### Sobre mim
 
 💻 Eu sou um desenvolvedor Fullstack
